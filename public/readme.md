@@ -1,0 +1,1 @@
+This file is here specifically to keep the public directory as part of the project tree in git.  It can be safely deleted.
